@@ -1,1 +1,1 @@
-# Mini_project3
+# MiniProject3 Othello
